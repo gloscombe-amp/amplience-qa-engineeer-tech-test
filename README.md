@@ -2,7 +2,7 @@
 
 This is a straight forward automation task, with backend (restful, json based api) and frontend html checking.
 
-It shouldn't take more than 2 hours of your time, and all code should be submitted by a public github or gitlabs repo.  Instructions on how to run should be included in a README.md file included in the repo.
+It shouldn't take more than 2 hours of your time, and all code should be submitted by a public github or gitlabs repo.  Try and include a few commits to indicate how you built-up the tests.  Instructions on how to run should be included in a README.md file included in the repo.
 
 
 ## Requirements:-
@@ -14,13 +14,13 @@ It shouldn't take more than 2 hours of your time, and all code should be submitt
 
 * Check the following in the JSON response body
     * name = Gregory Loscombe
-    * id = 15330
+    * id = 51361635
     * company = Amplience
-    * location = London
-    * public repos = 4
-    * public gists = 10
-    * followers = 12
-    * following = 20
+    * location = Manchester
+    * public repos = 3
+    * public gists = 2
+    * followers = 0
+    * following = 3
 
 * Also check any HTTP headers and response code you see as sensible.
 * Try and make the test as flexible as possible
@@ -34,10 +34,10 @@ It shouldn't take more than 2 hours of your time, and all code should be submitt
 * Check the following appears in the page
     * name = Gregory Loscombe
     * company = Amplience
-    * location = London
-    * public repos = 4
-    * public gists = 10
-    * followers = 12
-    * following = 20
+    * location = Manchester
+    * public repos = 3
+    * public gists = 2
+    * followers = 0
+    * following = 3
 
 * This should ideally follow page object best practise.
