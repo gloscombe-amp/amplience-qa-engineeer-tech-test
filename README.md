@@ -14,13 +14,12 @@ It shouldn't take more than 2 hours of your time, and all code should be submitt
 
 * Check the following in the JSON response body
     * name = Gregory Loscombe
-    * id = 51361635
-    * company = Amplience
+    * id = 15330
     * location = Manchester
-    * public repos = 3
-    * public gists = 2
-    * followers = 0
-    * following = 3
+    * public repos = 7
+    * public gists = 11
+    * followers = 12
+    * following = 29
 
 * Also check any HTTP headers and response code you see as sensible.
 * Try and make the test as flexible as possible
@@ -33,11 +32,10 @@ It shouldn't take more than 2 hours of your time, and all code should be submitt
 
 * Check the following appears in the page
     * name = Gregory Loscombe
-    * company = Amplience
     * location = Manchester
-    * public repos = 3
-    * public gists = 2
-    * followers = 0
-    * following = 3
+    * public repos = 7
+    * public gists = 11
+    * followers = 12
+    * following = 29
 
 * This should ideally follow page object best practise.
