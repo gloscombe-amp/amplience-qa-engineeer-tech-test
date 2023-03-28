@@ -16,10 +16,10 @@ It shouldn't take more than 2 hours of your time, and all code should be submitt
     * name = Gregory Loscombe
     * id = 15330
     * location = Manchester
-    * public repos = 7
+    * public repos = 6
     * public gists = 11
-    * followers = 12
-    * following = 29
+    * followers = 21
+    * following = 34
 
 * Also check any HTTP headers and response code you see as sensible.
 * Try and make the test as flexible as possible
@@ -35,7 +35,7 @@ It shouldn't take more than 2 hours of your time, and all code should be submitt
     * location = Manchester
     * public repos = 7
     * public gists = 11
-    * followers = 12
-    * following = 29
+    * followers = 21
+    * following = 34
 
 * This should ideally follow page object best practise.
